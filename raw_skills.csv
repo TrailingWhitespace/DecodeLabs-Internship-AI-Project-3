@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,python machine_learning deep_learning statistics sql data_analysis numpy pandas matplotlib scikit_learn tensorflow
+Machine Learning Engineer,python machine_learning deep_learning tensorflow pytorch model_deployment docker kubernetes mlops numpy
+Data Analyst,sql python excel data_analysis statistics tableau power_bi pandas data_visualization reporting
+Backend Developer,python java nodejs sql rest_api docker git databases mongodb postgresql microservices
+Frontend Developer,javascript html css react nodejs typescript git responsive_design ui_ux figma
+Full Stack Developer,javascript html css react nodejs python sql git docker rest_api mongodb
+DevOps Engineer,docker kubernetes aws linux bash git ci_cd jenkins terraform cloud_computing monitoring
+Cloud Architect,aws azure google_cloud docker kubernetes terraform networking security cloud_computing devops
+Cybersecurity Analyst,networking linux security ethical_hacking python firewalls cryptography vulnerability_assessment siem
+AI Research Scientist,python deep_learning tensorflow pytorch mathematics statistics nlp computer_vision research
+Data Engineer,python sql spark hadoop etl data_pipelines airflow kafka aws cloud_computing postgresql
+NLP Engineer,python nlp deep_learning transformers bert huggingface text_processing linguistics tensorflow
+Computer Vision Engineer,python deep_learning opencv tensorflow pytorch image_processing convolutional_networks cuda
+Blockchain Developer,solidity javascript ethereum smart_contracts web3 cryptography nodejs python
+Mobile App Developer,flutter dart java kotlin swift ios android react_native firebase
+Game Developer,unity c_sharp c_plus_plus opengl game_design 3d_modeling blender physics_engine
+Robotics Engineer,python c_plus_plus ros matlab embedded_systems sensors control_systems mathematics
+Business Intelligence Analyst,sql tableau power_bi excel data_analysis statistics reporting business_analysis python
+Site Reliability Engineer,linux docker kubernetes aws monitoring python bash ci_cd reliability automation
+QA Engineer,python selenium testing automation java git api_testing performance_testing agile
